@@ -1,0 +1,50 @@
+/***********************************
+*********** TAG SELECTORS *********/
+body {
+  background: black;
+  padding-left: 550px;
+}
+
+h1 {
+  color: white;
+}
+
+span {
+  color: white;
+}
+
+/***********************************
+***** TRAFFIC LIGHT STLYES *********/
+  
+#light {
+  border: 1px solid white;
+  width: 15%;
+  height: 200px;
+  border-radius: 10px;
+  padding-top: 10px;
+  margin-left: 35px;
+}
+  
+#red, #yellow, #green {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+#red {
+  background: red;
+  display: none;
+}
+
+#yellow {
+  background: yellow;
+  display: none;
+}
+      
+#green {
+  background: limegreen;
+  display: none;
+}
+
