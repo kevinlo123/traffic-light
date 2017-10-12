@@ -48,3 +48,29 @@ span {
   display: none;
 }
 
+/***********************************
+***** TRAFFIC TEXT STLYES *********/
+
+#goText{
+  color: green;
+  position: relative;
+  left: 160px;
+  bottom: 65px;
+  display: none;
+}
+
+#cautionText{
+  color: yellow;
+  position: relative;
+  left: 160px;
+  bottom: 140px;
+  display: none;
+}
+
+#stopText{
+  color: red;
+  position: relative;
+  left: 160px;
+  bottom: 210px;
+  display: none;
+}
