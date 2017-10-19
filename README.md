@@ -1,3 +1,3 @@
 # traffic-light
 a traffic light i programmed using javascript
-Im going to make this look more like a traffic light and add words next to when the lights turn on.
+to visit https://kevinlo123.github.io/traffic-light/traffic.html
